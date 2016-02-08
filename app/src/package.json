@@ -1,0 +1,17 @@
+{
+    "name": "dashboard",
+    "description": "Dashboard Node Dependencies",
+    "dependencies": {
+        "forever": "~0.13.0",
+        "morgan": "~1.5.0",
+        "errorhandler": "~1.2.2",
+        "connect-modrewrite": "~0.7.9",
+        "connect-timeout": "~1.4.0",
+        "ssl-root-cas": "~1.1.7",
+        "express": "~4.10.2",
+        "requirejs": "~2.1.10"
+    },
+    "engines": {
+        "node": ">=0.8.0"
+    }
+}
